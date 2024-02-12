@@ -2,4 +2,4 @@
 My first repository.
 
 # My Favorite Movie - **Dispicable Me**
-This *Movie* is great 😂🍌😸
+This *Movie* is **great** 😂🍌😸
